@@ -1,2 +1,2 @@
-# DevOPG-CourseEndProject-1
+# DevOPS-CourseEndProject-1
 DevOps PG - Certification Project 1
